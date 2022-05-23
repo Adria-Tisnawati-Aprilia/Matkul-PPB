@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523485529",
+    "project_id": "login-firebase-bbe10",
+    "storage_bucket": "login-firebase-bbe10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523485529:android:3c0d03b506b3fe2e35cc48",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523485529-7vq8star38dph0jc2cao0ath72gh9oqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAqHEkpbthppEIpuORRjtRPtzUobEEXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523485529-7vq8star38dph0jc2cao0ath72gh9oqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

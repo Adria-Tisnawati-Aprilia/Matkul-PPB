@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200347866149",
+    "project_id": "storage-cf60e",
+    "storage_bucket": "storage-cf60e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200347866149:android:4af8e47aeb56a20fbcdbcc",
+        "android_client_info": {
+          "package_name": "com.example.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200347866149-hickttpajdf1365sacpm85tqdlrnhhkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArpcQJW0dmzb-S2vaf4aWmyyiUNiAiLb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200347866149-hickttpajdf1365sacpm85tqdlrnhhkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
