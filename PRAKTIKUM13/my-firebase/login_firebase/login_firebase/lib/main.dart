@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
+
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'signup.dart';
@@ -48,12 +48,12 @@ class _MyHomePageState extends State<MyHomePage> {
   String _userEmail = "";
 
   void _singIn() async {
-    final User user = (await _auth.signInWithEmailAndPassword(email: _emailController.text, password: _passwordController.text)).user;
+    final User user = (await _auth.signInWithEmailAndPassword(email: _emailController.text, password: _passwordController.text)).user!;
 
     if(user != null) {
       setState(() {
         _success = 2;
-        _userEmail = user.email;
+        _userEmail = user.email!;
       });
     } else {
       setState(() {

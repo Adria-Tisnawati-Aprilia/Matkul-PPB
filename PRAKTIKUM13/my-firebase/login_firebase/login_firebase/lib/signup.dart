@@ -20,12 +20,12 @@ class _SignupPageState extends State<SignupPage> {
   void _register() async {
     final User user = (
     await _auth.createUserWithEmailAndPassword(email: _emailController.text, password: _passwordController.text)
-    ).user;
+    ).user!;
 
     if(user != null) {
       setState(() {
         _sucess = true;
-        _userEmail = user.email;
+        _userEmail = user.email!;
       });
     } else {
       setState(() {
