@@ -47,30 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAZYBut8JNNDdcmWUpm_PSdrwEKvySdj2c',
-    appId: '1:990064795419:web:43b62bb448b35669507dbe',
-    messagingSenderId: '990064795419',
-    projectId: 'my-notification-82da2',
-    authDomain: 'my-notification-82da2.firebaseapp.com',
-    storageBucket: 'my-notification-82da2.appspot.com',
-    measurementId: 'G-SZHB5Y9XLR',
+    apiKey: 'AIzaSyA3307auYIskHRxPuDfkqBEuW9N9HoxwGE',
+    appId: '1:877387098831:web:7aa72a350aae18b4ce65ba',
+    messagingSenderId: '877387098831',
+    projectId: 'notification-ppb-4be14',
+    authDomain: 'notification-ppb-4be14.firebaseapp.com',
+    storageBucket: 'notification-ppb-4be14.appspot.com',
+    measurementId: 'G-YVHP9RYQHF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfONOPO0BkQ5ps1znENGtZLDQe0Fifx88',
-    appId: '1:990064795419:android:dc63836b9d769c18507dbe',
-    messagingSenderId: '990064795419',
-    projectId: 'my-notification-82da2',
-    storageBucket: 'my-notification-82da2.appspot.com',
+    apiKey: 'AIzaSyCstmIKWShruhfKDX9_VP3FW5ocXge4VbQ',
+    appId: '1:877387098831:android:b70ffb2b4b2d8c46ce65ba',
+    messagingSenderId: '877387098831',
+    projectId: 'notification-ppb-4be14',
+    storageBucket: 'notification-ppb-4be14.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBFcYHZKSm3oNEGBRyz8fbghKJeISfh6wo',
-    appId: '1:990064795419:ios:b394049d83e4c14d507dbe',
-    messagingSenderId: '990064795419',
-    projectId: 'my-notification-82da2',
-    storageBucket: 'my-notification-82da2.appspot.com',
-    iosClientId: '990064795419-1b1o10ct6ftsc72pklevpqg7d09roqup.apps.googleusercontent.com',
-    iosBundleId: 'com.example.notification',
+    apiKey: 'AIzaSyD1y7t4SLwEh99bSJYkAXidrei24LyTuQ8',
+    appId: '1:877387098831:ios:f7850b918cc41887ce65ba',
+    messagingSenderId: '877387098831',
+    projectId: 'notification-ppb-4be14',
+    storageBucket: 'notification-ppb-4be14.appspot.com',
+    iosClientId: '877387098831-9g1365asqo82os38v11076grqbnpqbdl.apps.googleusercontent.com',
+    iosBundleId: 'com.example.notif',
   );
 }

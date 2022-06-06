@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "167674023241",
-    "project_id": "fcmtest-8cdc4",
-    "storage_bucket": "fcmtest-8cdc4.appspot.com"
+    "project_number": "990064795419",
+    "project_id": "my-notification-82da2",
+    "storage_bucket": "my-notification-82da2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:167674023241:android:8f693b454d413caf1ade98",
+        "mobilesdk_app_id": "1:990064795419:android:dc63836b9d769c18507dbe",
         "android_client_info": {
           "package_name": "com.example.notification"
         }
       },
       "oauth_client": [
         {
-          "client_id": "167674023241-f375k1sr3tmabcchnllmcvaf7a25547n.apps.googleusercontent.com",
+          "client_id": "990064795419-2l4fc9kcp6lgkm6jucksoonj8e3hot7i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDELjtKGvnYhMsQQfg_1h4d1nMmNDdBqgM"
+          "current_key": "AIzaSyBfONOPO0BkQ5ps1znENGtZLDQe0Fifx88"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "167674023241-f375k1sr3tmabcchnllmcvaf7a25547n.apps.googleusercontent.com",
+              "client_id": "990064795419-2l4fc9kcp6lgkm6jucksoonj8e3hot7i.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

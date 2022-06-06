@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877387098831",
+    "project_id": "notification-ppb-4be14",
+    "storage_bucket": "notification-ppb-4be14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877387098831:android:b70ffb2b4b2d8c46ce65ba",
+        "android_client_info": {
+          "package_name": "com.example.notif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877387098831-88bv44jbsecj3u06jnh8lr1fli2s2eq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCstmIKWShruhfKDX9_VP3FW5ocXge4VbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877387098831-88bv44jbsecj3u06jnh8lr1fli2s2eq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
